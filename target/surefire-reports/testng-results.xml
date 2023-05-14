@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="quickstart.Tests.TestCases" duration-ms="44864" started-at="2023-05-15T00:29:56 AEST" finished-at="2023-05-15T00:30:40 AEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="44864" started-at="2023-05-15T00:29:56 AEST" finished-at="2023-05-15T00:30:40 AEST">
+      <class name="quickstart.Tests.TestCases">
+        <test-method status="PASS" signature="startTestSuite()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTestSuite" is-config="true" duration-ms="3568" started-at="2023-05-15T00:29:52 AEST" finished-at="2023-05-15T00:29:56 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTestSuite -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="16462" started-at="2023-05-15T00:29:56 AEST" finished-at="2023-05-15T00:30:12 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.FormSubmissionTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="FormSubmissionTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="FormSubmissionTest" duration-ms="3311" started-at="2023-05-15T00:30:12 AEST" finished-at="2023-05-15T00:30:15 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormSubmissionTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="0" started-at="2023-05-15T00:30:15 AEST" finished-at="2023-05-15T00:30:15 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="127" started-at="2023-05-15T00:30:15 AEST" finished-at="2023-05-15T00:30:15 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.FormSubmissionTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="FormSubmissionTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="FormSubmissionTest" duration-ms="5728" started-at="2023-05-15T00:30:15 AEST" finished-at="2023-05-15T00:30:21 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormSubmissionTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="176" started-at="2023-05-15T00:30:21 AEST" finished-at="2023-05-15T00:30:21 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.FormSubmissionTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="0" started-at="2023-05-15T00:30:21 AEST" finished-at="2023-05-15T00:30:21 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="FormSubmissionTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="FormSubmissionTest" duration-ms="6792" started-at="2023-05-15T00:30:21 AEST" finished-at="2023-05-15T00:30:28 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormSubmissionTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="151" started-at="2023-05-15T00:30:28 AEST" finished-at="2023-05-15T00:30:28 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.FormSubmissionTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="0" started-at="2023-05-15T00:30:28 AEST" finished-at="2023-05-15T00:30:28 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="FormSubmissionTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="FormSubmissionTest" duration-ms="2066" started-at="2023-05-15T00:30:28 AEST" finished-at="2023-05-15T00:30:30 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormSubmissionTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="1" started-at="2023-05-15T00:30:30 AEST" finished-at="2023-05-15T00:30:30 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="172" started-at="2023-05-15T00:30:30 AEST" finished-at="2023-05-15T00:30:31 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.FormSubmissionTest() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="FormSubmissionTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="FormSubmissionTest" duration-ms="5085" started-at="2023-05-15T00:30:31 AEST" finished-at="2023-05-15T00:30:36 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormSubmissionTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="0" started-at="2023-05-15T00:30:36 AEST" finished-at="2023-05-15T00:30:36 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="122" started-at="2023-05-15T00:30:36 AEST" finished-at="2023-05-15T00:30:36 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.contactFormErrorValidation() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="contactFormErrorValidation()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="contactFormErrorValidation" duration-ms="1997" started-at="2023-05-15T00:30:36 AEST" finished-at="2023-05-15T00:30:38 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactFormErrorValidation -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="0" started-at="2023-05-15T00:30:38 AEST" finished-at="2023-05-15T00:30:38 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="startTest" is-config="true" duration-ms="161" started-at="2023-05-15T00:30:38 AEST" finished-at="2023-05-15T00:30:38 AEST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void quickstart.Tests.TestCases.testCase3() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="testCase3" duration-ms="2479" started-at="2023-05-15T00:30:38 AEST" finished-at="2023-05-15T00:30:40 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTest" is-config="true" duration-ms="5" started-at="2023-05-15T00:30:40 AEST" finished-at="2023-05-15T00:30:40 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="endTestSuite()[pri:0, instance:quickstart.Tests.TestCases@610694f1]" name="endTestSuite" is-config="true" duration-ms="3537" started-at="2023-05-15T00:30:40 AEST" finished-at="2023-05-15T00:30:44 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTestSuite -->
+      </class> <!-- quickstart.Tests.TestCases -->
+    </test> <!-- Command line test -->
+  </suite> <!-- quickstart.Tests.TestCases -->
+</testng-results>
